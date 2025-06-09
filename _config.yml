@@ -19,7 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Sámi AI Lab News and Updates
 #twitter_username: username
 github_username: username
-minimal_mistakes_skin: contrast
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "contrast"
 search: true
 
 # Build settings
