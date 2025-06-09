@@ -5,5 +5,6 @@
 layout: splash
 author_profile: false
 header:
-  teaser: "/assets/bg-pattern.png"
+overlay_color: "#e1bc48"
+  image: "/assets/images/bg-pattern.png"
 ---
