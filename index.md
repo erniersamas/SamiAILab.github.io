@@ -4,4 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: false
+header:
+  teaser: "/assets/bg-pattern.png"
 ---
